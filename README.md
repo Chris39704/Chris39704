@@ -1,4 +1,4 @@
-<div style="height: 100vh; width: 100vw; display: flex; flex-direction: row; flex-wrap: no-wrap; justify-content: space-around;">
+<div style="height: 100vh; width: 100vw; display: flex; flex-direction: column; flex-wrap: no-wrap; justify-content: space-around;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris39704&langs_count=8&layout=compact" style="flex: 0 1 auto; align-self: center;" />
   <img src="https://github-readme-stats.vercel.app/api?username=chris39704&show_icons=true&theme=highcontrast&count_private=true&title_color=f59700&bg_color=0f1021&icon_color=00899e" style="flex: 0 1 0; align-self: center;" height="190px" /> 
 </div>
