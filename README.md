@@ -7,7 +7,6 @@
 
 ![TypeScript](http://img.shields.io/badge/-TypeScript-blue?style=plastic&logo=typescript&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Lua](https://img.shields.io/badge/-Lua-white?style=plastic&logo=lua&logoColor=darkblue)
 ![Java](https://img.shields.io/badge/-Java-white?style=plastic&logo=java&logoColor=red)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=plastic&logo=rust&logoColor=red)
 ![Solidity](https://img.shields.io/badge/-Solidity-black?style=plastic&logo=solidity)
@@ -15,7 +14,6 @@
 ![React](https://img.shields.io/badge/-React-blue?style=plastic&logo=react&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-darkblue?style=plastic&logo=materialui)
 ![RXJS](https://img.shields.io/badge/-RxJS-white?style=plastic&logo=reactivex&logoColor=pink)
-![MobX](https://img.shields.io/badge/-MobX-white?style=plastic&logo=mobx)
 ![MobXStateTree](https://img.shields.io/badge/-MST-white?style=plastic&logo=mobxstatetree)
 
 ### Platforms, Tools, and Other Software 🛠 
